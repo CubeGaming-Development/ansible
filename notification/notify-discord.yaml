@@ -4,7 +4,7 @@
   tasks:
     - name: send discord message
       uri:
-        url: "https://discord.com/api/webhooks/1186749805465186437/3TT5WTr5otcmR8LBo24zW-bPvw-KGyZ_ZSElJMVtFwu2aid48WZ_Rwba-bxhwCyeM87L"
+        url: ""
         method: POST
         body_format: json
         body: '{"content": "your-message"}'
